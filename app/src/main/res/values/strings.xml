@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AreaTrapezio</string>
+    <string name="txtTitulo">Calculadora da area do trapézio</string>
+    <string name="areaMaior">Digite a área maior do trapézio</string>
+    <string name="areaMenor">Digite a área menor do trapézio</string>
+    <string name="altura">Digite a altura do trapézio</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="txtRes">O valor da área do trapézio é: </string>
+
+</resources>
